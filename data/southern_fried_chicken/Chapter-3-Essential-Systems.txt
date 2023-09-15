@@ -1,0 +1,1183 @@
+Essential Systems
+
+No part of this manual may be given to a customer, unless they have officially signed the Southern Fried Chicken Agreement. This format is a standard format that all
+potential operators must follow. Any alterations or requested alterations, must be approved by FFS BRANDS Limited or their Authorised Distributor.
+
+Essential Systems/ Issue 1-2017
+
+1
+
+Content
+Food Cost Control.............................................................................................................................................. 3
+Raw Product Costs........................................................................................................................................... 3
+Raw Product Quality........................................................................................................................................ 3
+Portion Control................................................................................................................................................ 3
+Raw Waste....................................................................................................................................................... 4
+Cooked Waste................................................................................................................................................. 4
+Stock Loss and back door procedures............................................................................................................. 4
+Rough Handling of Stock................................................................................................................................. 5
+Inventory............................................................................................................................................................ 6
+Labour Control and Staff Scheduling................................................................................................................. 7
+Expected Sales Volumes and Sales Patterns.................................................................................................... 7
+Sales per Man Hour......................................................................................................................................... 7
+Sales History...................................................................................................................................................... 9
+How to Complete the Sheet............................................................................................................................ 9
+Section 1: Sales............................................................................................................................................. 9
+Section 2: Promotions redeemed............................................................................................................... 10
+Section 3: Net Delivery Sales...................................................................................................................... 10
+Section 4: Labour costs.............................................................................................................................. 10
+Section 5: Sales Trends............................................................................................................................... 11
+The Summary Page..................................................................................................................................... 11
+Usage Per £1000.............................................................................................................................................. 15
+
+No part of this manual may be given to a customer, unless they have officially signed the Southern Fried Chicken Agreement. This format is a standard format that all
+potential operators must follow. Any alterations or requested alterations, must be approved by FFS BRANDS Limited or their Authorised Distributor.
+
+2
+
+Essential Systems/ Issue 1-2017
+
+Food Cost Control
+In a typical SFC the cost of the food is the single largest expense for the business; a typical SFC will have a food
+cost of about 30 to 35% depending upon the pricing policy. The menu should be properly costed as only then
+can it be determined what GP the store should be generating
+The food cost can be influenced by a number of factors including:
+• Raw Product costs.
+• Raw Product quality.
+• Portion control
+• Raw waste
+• Cooked waste
+• Stock loss and back door procedures
+• Rough handling of stock.
+
+Raw Product Costs
+Poor purchasing can lead to higher cost ingredients being used. It is important to ensure that the best prices
+are obtained for all products. This is most noticeable with high cost ingredients such as chicken fillets which
+can vary substantially in price from one suppler to another.
+
+Raw Product Quality
+Poor quality raw products will lead to wastage or increased portion size. This is especially noticeable with
+fries as poor quality fries tend to be shorter; this means that more fries are needed to fill a fry bag resulting
+in heavier portions than costed, so any perceived saving is lost when giving out bigger portions.
+
+Portion Control
+Portion control is a management issue in store. Too small a portion will lead to dis‐satisfied customers, too
+large a portion will lead to a high food cost. Even a small variance on key products can have a significant
+impact on food cost. Two key examples are:
+
+1. Chicken strips being cut incorrectly. If the target weight of a chicken strip is 35g, but staff are cutting at an
+
+average of 45g, our food cost percentage will increase to almost 45% on this product, reducing our GP%
+on this item to about 55%. Depending upon the product mix this could be a 1 or 2 % increase in food cost.
+
+2. Incorrectly portioned fries, perhaps because the fries are damaged through poor handling or are just
+
+poor quality is a common occurrence in fast food restaurants. Target weights can be exceeded by as much
+as 20% to 30% so a 110g portion can become as much as 140g, if this is repeated time and time again it
+can add significant cost, especially as almost 95% of transactions in our stores will include fries.
+
+There are any number of other examples and managers must be vigilant to ensure that portion control is
+properly maintained. Each store should be equipped with some robust and accurate commercial scale so that
+managers can get staff in the habit of weighing product.
+
+No part of this manual may be given to a customer, unless they have officially signed the Southern Fried Chicken Agreement. This format is a standard format that all
+potential operators must follow. Any alterations or requested alterations, must be approved by FFS BRANDS Limited or their Authorised Distributor.
+
+Essential Systems/ Issue 1-2017
+
+3
+
+Raw Waste
+Raw waste is throwing away uncooked ingredients.
+It can come from 2 sources.
+Acceptable waste comes from the correct preparation of the ingredients, such as the core of a tomato or
+when the rerun cycle is broken on a shake machine. This must be kept to a minimum but is a normal part of
+the business.
+Unacceptable waste comes from:
+• Poor ordering simply have more product in the restaurant than can be used within the use by date of the
+product.
+• Poor stock rotation such as failing to use first in first out “FIFO” and allowing food to go out of date.
+• Allowing buns etc. to dry out, rendering them unusable.
+• Excessive stock holding especially of fresh products like chicken or vegetable products.
+• Throwing containers away that still contain usable food, i.e. not using the last few beans in a tin or the
+last spoonful of coleslaw.
+• Excessive wastage during the preparation of food, such as discarding product because it is badly or
+wrongly cut.
+All these will act to increase the food cost and most are avoidable with good management practices such as
+ordering using a “Usage per £1000” system and ensuring good stock rotation using “FIFO”.
+
+Cooked Waste
+Cooked waste is discarding any menu item that has exceeded its maximum holding time such as 120 minutes
+for chicken and 60 minutes for fillets and 10 minutes for sandwiches.
+Conflicting pressures on staff and managers often lead them to hold food until it is well beyond the maximum
+holding time, this reduces the amount of wastage they have to declare and any resulting issues or reprimands
+they may face. Also, it is ingrained in to most people’s behaviour not to waste food especially when they are
+trying to achieve financial targets. This results in poor quality product reaching the customer and high levels
+of customer dis‐satisfaction and loss of repeat custom.
+Discarded cooked product must be recorded on the appropriate form so that wastage may be accurately
+tracked. Providing staff with accurate information on the level of sales they may expect will help reduce
+wastage, however a degree of wastage of between 1 to 2 % must be accepted in order to maintain quality. If
+the wastage exceeds a reasonable amount the root cause will need to be identified and tackled.
+The main causes of excessive cooked waste are:
+• Staff cooking excessive amounts to reduce the work load. Lazy staff will cook lots of product so they can
+clean down and have a break. The food will then need to be discarded as it goes out of time. Staff must
+be encouraged to cook little and often.
+• Lack of awareness of business patterns. Staff fail to anticipate that they are reaching the end of a busy
+period and do not scale back production accordingly resulting in over production.
+• Over compensation, when staff run out of product they will tend to over compensate by producing too
+much food, resulting in the need to discard food as it goes out of time.
+
+Stock Loss and back door procedures
+Stock loss or shrinkage is usually the result of theft of high value food items such as chicken fillets, these items
+are very desirable and portable, staff can easily be tempted to take them home. Stock shrinkage can have a
+
+No part of this manual may be given to a customer, unless they have officially signed the Southern Fried Chicken Agreement. This format is a standard format that all
+potential operators must follow. Any alterations or requested alterations, must be approved by FFS BRANDS Limited or their Authorised Distributor.
+
+4
+
+Essential Systems/ Issue 1-2017
+
+very significant impact on the food cost and managers must be vigilant to ensure that it does not happen.
+Whilst isolated cases of petty theft are common in this business, it is also not uncommon to find almost
+wholesale theft of large quantities of product. Individuals often start out small and when they are able to get
+away with it grow bolder, taking larger quantities more frequently.
+Theft also takes the form of giving food to friends when they visit the restaurant, managers must be vigilant
+for this. CCTV will help prove any incidences of this but managers should be on the lookout for staff members
+serving their family or friends, or customers who suddenly seem to be able to afford quantities of food at
+odds with their normal buying pattern. Although not shrinkage, theft of cash from the tills by employees
+will reduce the reported net sales and decrease the gross profit. Be aware of excessive cash shortages or
+transaction reductions which can indicate the theft of cash.
+Methods to discourage shrinkage:
+• The use of CCTV to monitor staff.
+• Weekly inventory of high value items to identify discrepancies. In some stores it could be appropriate to
+do this daily.
+• Control issue of product from the store room, by having a dedicated store person.
+• Key control, only approved staff can access the stores, reducing opportunity for theft.
+• Staff searches.
+Back door procedures must be complied with. As well as the safety checks and quality checks outlined
+elsewhere in this manual it is key that the products being signed for are present. Supervisors, managers or
+store man must be diligent in checking that the deliveries are correct. Unless unavoidable, such as in small
+stores, general staff must not be allowed to sign for deliveries. All deliveries must be stored promptly and
+correctly according to the operations manual.
+
+Rough Handling of Stock
+Most products are susceptible to rough handling and can be easily damaged. Rough handling of fries will
+break the fries and make for poorer yields. Staff must be encouraged to treat all the food products gently and
+not to be rough with them.
+
+No part of this manual may be given to a customer, unless they have officially signed the Southern Fried Chicken Agreement. This format is a standard format that all
+potential operators must follow. Any alterations or requested alterations, must be approved by FFS BRANDS Limited or their Authorised Distributor.
+
+Essential Systems/ Issue 1-2017
+
+5
+
+Inventory
+Southern Fried Chicken stores are required to do a complete food cost calculation at the end of each month.
+This requires a degree of preparation, you will need.
+• An inventory or stock sheet, an example of which you will find in this document.
+• Up to date prices for all the food and packaging items purchased recorded on the stock sheet
+• Previous closing stock value, now this periods opening value
+Transfers in or transfers out is
+movement between stores of
+• Invoices for any deliveries during the period.
+any product. i.e. Store A lends
+• Value of any transfers to or from the store
+store B a tray of buns, is a transfer
+Consumption, the value of food and packaging goods used is calculated by using the formula below
+Opening stock + deliveries+ transfers in – transfers out‐closing stock= consumption
+Consumption / net sales x 100 = food cost%
+Net sales – consumption = Gross Profit
+Gross profit/net sales x 100= Gross profit %
+To calculate the value of the closing stock the store management will need to complete an inventory or stock
+count. This means all the goods food and packaging in the restaurant must be accurately counted and their
+value calculated. This is a complex task and needs to be done properly. Some tips on how to make it more
+accurate and less frustrating are.
+1. Reduce the amount of stock being carried immediately prior to the inventory by running the stock levels
+down as far as possible.
+2. Try to delay any deliveries until after stocktake
+3. Ensure that the restaurant is clean and tidy; mess will make the count a lot more difficult.
+4. Ensure stock is well organised, and accessible. Like products should be stacked and in the same location. If
+there are a number of outers of any item open, make as many full outers as possible. It’s easier to count 3 box
+than 1 box and 3 bags and 4 bags
+5. Pre‐count any arrears where stock will not move i.e. check that all areas have just sufficient stock then
+count and lock the stock room
+When the business is closed, work slowly and
+methodically recording the number of full cases and
+loose units, and record them on the stock sheet.
+Ideally using Excel transfer this information in to a
+spread sheet and calculate the closing stock value.
+Good accountancy practice is to remove the cost of
+staff meals from the GP calculation as this is part of
+the labour cost.
+
+No part of this manual may be given to a customer, unless they have officially signed the Southern Fried Chicken Agreement. This format is a standard format that all
+potential operators must follow. Any alterations or requested alterations, must be approved by FFS BRANDS Limited or their Authorised Distributor.
+
+6
+
+Essential Systems/ Issue 1-2017
+
+Labour Control and Staff Scheduling
+Staff costs are typically the second highest cost that the restaurant incurs, so it is important for the success of
+the business that scheduling of staff is done effectively.
+While a busy store will operate with a labour cost of 25% to 30%, quieter stores will have higher labour costs.
+The labour cost percentage is a product of effective scheduling, rather than effective scheduling being a
+product of the labour cost.
+Factors to take into account when scheduling staff are:
+• Expected sales volumes and sales patterns
+• Staff availability. Shift patterns etc.
+• Staff experience and skills mix
+• Training needs
+• Special events
+• Minimum staffing levels
+
+Expected Sales Volumes and Sales Patterns
+This information should be available from the sales history sheet discussed in the previous chapter. You will
+need to know the net sales for last week and for last year and the hourly sales for an equivalent week (usually
+gross sales depending upon the till systems).
+On the left, you can see last week’s daily sales. On the
+right, the gross hourly sales. From this information and
+knowledge of target SPMH (sales per man hours) it is
+possible to create a matrix of the required number of
+staff.
+
+Sales per Man Hour
+This figure is calculated by dividing the gross
+hourly sales by the number of labour hours
+used. This will give an indication of how
+effectively staff is working.
+SPMH should average around £28.00 to
+£50.00. Below £28.00 SPMH, labour cost will
+be high; above £50.00 SPMH the staff may
+not be able to deliver QSC to the required
+standard. Additional staff should be scheduled
+to help maximise sales opportunities.
+Based on the expected sales, target SPMH
+and minimum staffing levels it is possible to
+create a staffing matrix, as per the example
+on the next page.
+
+Sales
+0
+40
+80
+120
+160
+190
+240
+280
+320
+360
+400
+440
+
+Staff
+1
+2
+2
+3
+3
+4
+5
+6
+6
+7
+8
+9
+
+spmh
+£0.00
+£20.00
+£40.00
+£40.00
+£53.33
+£47.50
+£48.00
+£46.67
+£53.33
+£51.43
+£50.00
+£48.89
+
+No part of this manual may be given to a customer, unless they have officially signed the Southern Fried Chicken Agreement. This format is a standard format that all
+potential operators must follow. Any alterations or requested alterations, must be approved by FFS BRANDS Limited or their Authorised Distributor.
+
+Essential Systems/ Issue 1-2017
+
+7
+
+Staffing matrix example for a normal week:
+
+This staffing matrix sets the staffing standard for each hour of the week, taking account of the hourly sales,
+minimum staffing standard and special requirements.
+
+Staffing matrix example for a busy school holiday:
+
+This shows a big increase in sales on the weekdays, when a larger number of staff will be required.
+It may not be possible in all cases to staff up to the highest staff levels, such as Friday between 1pm and 2pm,
+if there are not enough staff on the payroll. However, if the store is adequately prepared with skilled and
+experienced staff, the problem can be overcome.
+No part of this manual may be given to a customer, unless they have officially signed the Southern Fried Chicken Agreement. This format is a standard format that all
+potential operators must follow. Any alterations or requested alterations, must be approved by FFS BRANDS Limited or their Authorised Distributor.
+
+8
+
+Essential Systems/ Issue 1-2017
+
+Sales History
+Recording daily sales history is a routine function of store management. It is also a legal and contractual
+requirement of Fast Food Systems.
+Southern Fried Chicken will provide a standard Excel spread sheet located in Cloud and accessible via the
+internet. This must be completed daily by store management and will be reviewed by head office staff.
+The information recorded on the spreadsheet forms the basis of one of the most valuable tools in the business:
+history.
+This history has many uses including:
+• Monitoring the business trends, seeing how any business is performing in key areas.
+• Benchmarking. Comparing good and bad performance, both internally and with other franchisees.
+• Identifying areas of bad performance and providing tools to help improve.
+• Managing staff costs by helping to accurately identify quiet and busy periods and to staff accordingly.
+• Managing food costs by assisting with accurate ordering, when done in conjunction with a usage per
+£1,000.
+• By providing feedback on decisions relating to sales or labour.
+• Giving insight in to the “big picture” about the performance of the business and the use of resources.
+
+How to Complete the Sheet
+Section 1: Sales
+
+POS Sales:
+
+Sales as recorded by the point of sales
+
+Net sales:
+
+POS Sales less VAT. This is calculated by a formula
+
+CARD TRAN:
+
+Credit/debit card sales
+
+CASH TRANS:
+
+Cash sales
+
+Total sales:
+
+Sum of cash and credit card sales
+
+Cash +/‐:
+
+Cash loss or gain. Variance over £1 should be followed up
+
+T/C:
+
+Transaction count, the number of transactions
+
+Av Spend:
+
+The POS Sales divided by T/C to give the average value of one transaction.
+
+Voids: Items removed from transactions due to cashier error or customers changing their mind. High
+figures could indicate theft and should be investigated.
+
+No part of this manual may be given to a customer, unless they have officially signed the Southern Fried Chicken Agreement. This format is a standard format that all
+potential operators must follow. Any alterations or requested alterations, must be approved by FFS BRANDS Limited or their Authorised Distributor.
+
+Essential Systems/ Issue 1-2017
+
+9
+
+Section 2: Promotions redeemed
+This section is reserved for any current promotions, the number of transactions and their value should be recorded
+
+Section 3: Net Delivery Sales
+
+This records the net delivery sales and transaction count for each type of delivery (e.g. phone or web) and calculates
+the percentage of total sales and the average delivery spend.
+
+Section 4: Labour costs
+
+This section uses information input in the staff hours section (see next page) to calculate an approximate labour
+cost.
+Labour is usually the second biggest cost in the restaurant after food and will have the biggest impact on profit if it
+is poorly managed or labour is wasted.
+
+Staff working hours are entered in to this section and a cost is calculated using each individuals’ hourly rate plus on
+costs such as employer NI and holiday costs. This sheet adds 16% to the hourly rate to reflect these costs.
+No part of this manual may be given to a customer, unless they have officially signed the Southern Fried Chicken Agreement. This format is a standard format that all
+potential operators must follow. Any alterations or requested alterations, must be approved by FFS BRANDS Limited or their Authorised Distributor.
+
+10
+
+Essential Systems/ Issue 1-2017
+
+Staff working hours are entered in to this section and a cost is calculated using each individuals’ hourly rate
+plus on costs such as employer NI and holiday costs. This sheet adds 16% to the hourly rate to reflect these
+costs.
+Using the staff working hours, the sheet fills in the
+number of staff working in each hour (ignoring
+breaks)
+The hourly sales are entered from the till reading
+and the sheet, then calculates the Sales Per Man
+Hour (SPMH). This gives an indication of how
+effectively the staff is being scheduled.
+In stores where manning levels can be above the
+minimum it will show when the store is under or
+over staffed. Minimum SPMH is around £17.00 to
+cover staff and food costs; ideally SPMH should be
+in the region of £40.00 to £50.00
+Where the SPMH starts to exceed these levels
+routinely additional staff should be scheduled as
+the staff will not be able to maintain the standards
+of Quality, Service and Cleanliness.
+The detailed sales history will allow the
+management to plan effectively and to identify the
+busy and quiet periods and to use this information
+to schedule the appropriate number of staff.
+
+Section 5: Sales Trends
+
+This section compares current weeks sales with the previous weeks sales and with this week last year. This
+will show any sales trends.
+Stores should always show an increase in sales over last year as price increase mean that even like for like
+sales will be slightly better than the previous year.
+
+The Summary Page
+The summary page summarises all the sales
+information over the year in a single page. It also
+has various graphs so sales trends can be clearly
+seen.
+The graph below shows, total sales, in store sales,
+transactions and average spend.
+
+No part of this manual may be given to a customer, unless they have officially signed the Southern Fried Chicken Agreement. This format is a standard format that all
+potential operators must follow. Any alterations or requested alterations, must be approved by FFS BRANDS Limited or their Authorised Distributor.
+
+Essential Systems/ Issue 1-2017
+
+11
+
+Saturday, September 01,
+2012
+
+STOCK TAKE SFC
+Product No
+
+Stock Item
+
+Supplier Case size
+
+Product No
+
+Value
+
+9 Cut Chicken
+
+#DIV/0!
+
+Chicken Burger Fillets
+
+#DIV/0!
+
+Chicken Strips
+
+#DIV/0!
+
+Prime Joint Wings
+
+#DIV/0!
+
+1/4 Piri Piri Chicken
+
+#DIV/0!
+
+Prime 2 Joint Wings
+
+#DIV/0!
+
+Frozen Products
+
+Product No
+
+Case cost
+
+Value
+
+Breaded Onions RINGS
+
+#DIV/0!
+
+Beef Burgers 2oz (100%)
+
+#DIV/0!
+
+Beef Burgers 4oz (100%)
+
+#DIV/0!
+
+Cod Fillets
+
+#DIV/0!
+
+Corn on a cob
+
+#DIV/0!
+
+Veggie Burgers
+
+#DIV/0!
+
+Nestle Ice Cream Potz)
+
+#DIV/0!
+
+Hash Browns
+
+#DIV/0!
+
+4.5 “ Seeded Bun
+
+#DIV/0!
+
+5 “ Seeded Bun
+
+#DIV/0!
+
+Aviko Super Crunch 3/8
+
+#DIV/0!
+
+Wraps Tortilla 12’’
+
+#DIV/0!
+
+Golden Popcorn Chicken
+
+#DIV/0!
+
+Fresh & Dry Products
+
+Value
+
+Lurpark Spreadable
+
+#DIV/0!
+
+Baked Beans tins 1x2.62kg
+
+#DIV/0!
+
+Cheese Slices
+
+#DIV/0!
+
+Coleslaw Tub 1x2kg
+
+#DIV/0!
+
+Iceberg Lettuce Each
+
+#DIV/0!
+
+Golden Acres Rapseed Oil
+
+#DIV/0!
+
+Onions 2.5kg
+
+#DIV/0!
+
+Potatoes 5kg
+
+#DIV/0!
+
+Tomatoes 6kg
+
+#DIV/0!
+
+Condiments
+
+Value
+
+BBQ Pots 1x100
+
+#DIV/0!
+
+BBQ Sauce 1x4.6kg
+
+#DIV/0!
+
+Gravy 1x2kg
+
+#DIV/0!
+
+Heinz Ketchup 1x4kg
+
+#DIV/0!
+
+Olympic Thick & Creamy Mayo
+
+#DIV/0!
+
+Mayonnaise sachet 1x200
+
+#DIV/0!
+
+Pepper sachet 1x2000
+
+#DIV/0!
+
+Peri Peri Lemon & Herbs
+
+FFS
+
+#DIV/0!
+
+Peri Peri Mild Sauce
+
+FFS
+
+#DIV/0!
+
+Peri Peri Xtra Hot
+
+FFS
+
+#DIV/0!
+
+No part of this manual may be given to a customer, unless they have officially signed the Southern Fried Chicken Agreement. This format is a standard format that all
+potential operators must follow. Any alterations or requested alterations, must be approved by FFS BRANDS Limited or their Authorised Distributor.
+
+12
+
+Essential Systems/ Issue 1-2017
+
+Lemon & Herbs baste
+
+FFS
+
+#DIV/0!
+
+Mild Sauce Baste
+
+FFS
+
+#DIV/0!
+
+Hot baste
+
+FFS
+
+#DIV/0!
+
+Salt sachet 1x5000
+
+#DIV/0!
+
+Sugar sachet 1x1000
+
+#DIV/0!
+
+Mayo & Herbs Pots 1x100
+
+#DIV/0!
+
+Tomato Ketchup Sachet
+
+#DIV/0!
+
+UHT Milk Pots
+
+#DIV/0!
+
+Vinegar Sachets
+
+#DIV/0!
+
+Product No
+
+Package Products
+
+Value
+
+SSSFC040
+
+Burger Wrap
+
+FFS
+
+#DIV/0!
+
+SSSF030
+
+Carry Bags
+
+FFS
+
+#DIV/0!
+
+SFCHDRUM
+
+Chicken Drum & lids
+
+FFS
+
+#DIV/0!
+
+SFOODBAG
+
+Chicken Grease Proof Food Bag FFS
+
+#DIV/0!
+
+SF027C
+
+Chip Bag 3.5x5x4
+
+FFS
+
+#DIV/0!
+
+SF027B
+
+Chip Bag 8.5x8.5
+
+FFS
+
+#DIV/0!
+
+SF069
+
+Chip Scoop Large Box
+
+FFS
+
+#DIV/0!
+
+SSSFCDFR6
+
+SFC Side containers printed
+
+FFS
+
+#DIV/0!
+
+SSSFCLFTFH16
+
+SFC Lids for side containers
+
+FFS
+
+#DIV/0!
+
+SSLHRDS16
+
+Hot Drink Cup Lids
+
+FFS
+
+#DIV/0!
+
+SMR12
+
+Hot Drink Cups 12oz
+
+FFS
+
+#DIV/0!
+
+SFKISBAG
+
+Kids Food Bag
+
+FFS
+
+#DIV/0!
+
+SF019A
+
+Large Box Liners 430x223
+
+FFS
+
+#DIV/0!
+
+SSSF023A
+
+Large Boxes
+
+FFS
+
+#DIV/0!
+
+SF105
+
+Large Kraft Bag
+
+FFS
+
+#DIV/0!
+
+SF400MED
+
+Medium Box
+
+FFS
+
+#DIV/0!
+
+SF019
+
+Medium Box Liners 7x14”
+
+FFS
+
+#DIV/0!
+
+SF106
+
+Medium Kraft Bag
+
+FFS
+
+#DIV/0!
+
+Milk Shake Clear Cup 16oz
+
+#DIV/0!
+
+Milk Shake Clear Cup Lids
+
+#DIV/0!
+
+AJP1010
+
+Piri Piri Wrap AJ’S
+
+FFS
+
+#DIV/0!
+
+SF041A
+
+Sandwich Box
+
+FFS
+
+#DIV/0!
+
+SF028UA
+
+Serviettes
+
+FFS
+
+#DIV/0!
+
+SF025
+
+SFC Finger Wipes
+
+FFS
+
+#DIV/0!
+
+SF107
+
+Small Kraft Bag
+
+FFS
+
+#DIV/0!
+
+Straws
+
+#DIV/0!
+
+Strong Holds 4’s
+
+#DIV/0!
+
+Strong Holds 2’s
+
+#DIV/0!
+
+SF032
+
+Taper Tray
+
+FFS
+
+#DIV/0!
+
+SFC044
+
+Tortilla Wrap
+
+FFS
+
+#DIV/0!
+
+Product No
+
+SFC Breading
+
+SSSF016
+
+Chickite 25kG
+
+FFS
+
+#DIV/0!
+
+SF017
+
+SFC But Mil Dip 5x4kg
+
+FFS
+
+#DIV/0!
+
+SF112
+
+SFC Hot N Flakey 1x20kg
+
+FFS
+
+#DIV/0!
+
+Value
+
+No part of this manual may be given to a customer, unless they have officially signed the Southern Fried Chicken Agreement. This format is a standard format that all
+potential operators must follow. Any alterations or requested alterations, must be approved by FFS BRANDS Limited or their Authorised Distributor.
+
+Essential Systems/ Issue 1-2017
+
+13
+
+SF015B
+
+SFC Premier Plus Breading 20kg FFS
+
+#DIV/0!
+
+AJP1014K
+
+SFC Piri Piri Marinade 1x4kg
+
+#DIV/0!
+
+Product No
+
+Hot Drinks
+
+Product No
+
+FFS
+
+Value
+
+Hot Chocolate
+
+#DIV/0!
+
+Mocha Brazil Beans
+
+#DIV/0!
+
+PG tips Tea
+
+#DIV/0!
+
+Skimmed Milk
+
+#DIV/0!
+
+Drinks
+
+Value
+
+Sprite
+
+#DIV/0!
+
+Dr Pepper (Can)
+
+#DIV/0!
+
+Fanta
+
+#DIV/0!
+
+Mineral Water
+
+#DIV/0!
+
+Fruit Shoot Blackcurrent
+
+#DIV/0!
+
+Fruit Shoot Orange
+
+#DIV/0!
+
+Just Apple Juice
+
+#DIV/0!
+
+Just Orange Juice
+
+#DIV/0!
+
+Rio
+
+#DIV/0!
+
+Vimto
+
+#DIV/0!
+
+Product No
+
+Desserts
+
+96704
+
+Mixed Case Muffins
+
+#DIV/0!
+
+123203
+
+Cup Cakes
+
+#DIV/0!
+
+ICE008
+
+Milk Shake Base
+
+#DIV/0!
+
+Milk Shake Syrups
+
+#DIV/0!
+
+Product No
+
+Value
+
+Drinks
+
+Value
+
+PG Can Cooler
+
+#DIV/0!
+
+PG Sports Bottle
+
+#DIV/0!
+
+Bunny Toys
+
+#DIV/0!
+
+Leaflets
+
+#DIV/0!
+
+Electric Meter
+Gas Meter
+#DIV/0!
+
+No part of this manual may be given to a customer, unless they have officially signed the Southern Fried Chicken Agreement. This format is a standard format that all
+potential operators must follow. Any alterations or requested alterations, must be approved by FFS BRANDS Limited or their Authorised Distributor.
+
+14
+
+Essential Systems/ Issue 1-2017
+
+Usage Per £1000
+Effective ordering will help manage the food cost as the store will have adequate stocks of food for the level
+of anticipated business.
+Having a usage per £1000.00 figure will make ordering a science rather than an art. For example the usage
+per £100.00 for 9 cut chicken is 3.35
+Calculating a usage per £1000.00 figure
+To calculate the usage per £100.00 figure you will need to know:
+• Opening stock figure e.g. 4 cases of chicken
+• Deliveries or transfer during the period
+• Closing stock figure e.g. 2 case of chicken
+Calculate the consumption using the same formula mentioned previously in the chapter
+Divide the consumption or usage by the sales and multiply by 1000
+
+				
+
+Opening stock		
+
+4
+
+				
+
+Deliveries		
+
+6
+
+				
+
+Closing stock		
+
+2
+
+				
+
+Usage			
+
+8
+
+				
+
+Net sales		
+
+2388
+
+				
+
+Usage per 1000		
+
+3.35
+
+Using a stock record sheet similar to the example below will make this process easier.
+To calculate an order using the usage per 1000 figure you will need to know:
+
+•
+•
+•
+
+Usage per 1000 figure for each line to be ordered.
+Stock count of each line to be ordered.
+Anticipated sales from taking the stock count to the following delivery date.
+
+Formula is:
+Projected sales /1000
+
+		=(A)
+
+Order= (A) 		
+
+		x Usage per 1000 3 35 		
+
+)- Opening stock 5
+
+=2.7
+
+As it’s not possible to order 2.7 cases, round up to nearest whole number 3
+No part of this manual may be given to a customer, unless they have officially signed the Southern Fried Chicken Agreement. This format is a standard format that all
+potential operators must follow. Any alterations or requested alterations, must be approved by FFS BRANDS Limited or their Authorised Distributor.
+
+Essential Systems/ Issue 1-2017
+
+15
+
+

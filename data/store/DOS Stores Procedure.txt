@@ -1,0 +1,1553 @@
+2–2
+
+STORES PROCEDURE
+
+GOVERNMENT OF INDIA
+
+DEPARTMENT OF SPACE
+
+STORES PROCEDURE
+Contents
+Sl. No.
+
+Subject
+
+1
+
+Introduction
+
+2
+
+Organization
+
+Part I
+Procedure to be followed by Central Stores
+3
+
+Functions and responsibilities of Central Stores
+
+4
+
+Receipt of Materials
+
+5
+
+Storage/Custody and preservation
+
+6
+
+Issue of Materials
+
+7
+
+Accounting of Materials
+
+8
+
+Disposal of obsolete/surplus/Unserviceable/scrap items
+
+9
+
+Physical verification of stores
+
+10
+
+Other related works
+Part II
+
+Procedure to be followed by divisional Stores
+11
+
+Functions and responsibilities
+
+12
+
+Accounting of Materials
+
+13
+
+Issue of Materials
+
+14
+
+Storage, preservation and safe custody of stock
+
+15
+
+Physical stock verification
+
+16
+
+Surplus and redundant stock
+
+17
+
+Loss of materials and write-off
+
+18
+
+On the closure/creation of divisions
+
+Part III
+General
+19
+
+General
+
+20
+
+Delegation of powers
+
+21
+
+Deviations
+
+***
+
+STORES PROCEDURE
+1.
+
+INTRODUCTION
+
+1.1
+
+Proper control over receipt and issue of stores, their custody and accounting is of
+considerable importance. Such material control and accounting shall be the primary and
+completed responsibility of the Stores Wing of respective Centres.
+
+1.2
+
+This procedure is in three parts, Part-1 deals with the procedure for Central
+Stores, Part-II with the procedure for Divisional Stores, and Part-III with general
+points.
+
+2
+
+ORGANIZATION
+
+2.1
+
+The Stores wing in the centre, under the purchase & stores division will follow a two tier
+system, viz. central stores and Divisional stores. The central stores will have a receiving
+section (CRS) and a holding section [for bulk stocks], located at a central place. The
+Divisional stores shall be located in the vicinity of divisions [user points] to the extent
+possible. The divisional stores itself can be of two types depending upon the special
+requirements in each centre : (i) Common divisional stores located at a convenient place
+[say within a Unit or area] to cater to the needs of those divisions located in that area and
+which do not have their own individual stores, and (ii) individual divisional stores located
+within the division itself [which have sizeable large transactions] exclusively for that
+division.
+
+2.2
+
+Each of these stores shall be identified by a stores number for the purpose of effective
+control.
+PART I
+PROCEDURE TO BE FOLLOWED BY CENTRAL STORES
+
+3.
+
+FUNCTIONS AND RESPONSIBILITIES OF CENTRAL STORES
+
+3.1
+
+The important functions of Central Stores include the following :
+3.1.1
+3.1.2
+3.1.3
+3.1.4
+3.1.5
+3.1.6
+3.1.7
+3.1.8
+
+Receipt of materials
+Storage, Preservation and Safe custody
+Issue of materials against proper authorization
+Quantitative accountal of the transactions
+Disposal of obsolete/ unserviceable/scrap items
+Verification of stores
+Other related works
+Indenting optimum quantity of common stock items periodically at
+appropriate times.
+
+These functions are elaborated in the succeeding paragraphs.
+
+4.
+
+RECEIPT OF MATERIALS
+
+4.1
+
+Receipt of materials will, normally, fall into one of the following categories:•
+•
+
+4.2
+
+Items received for direct issue to the indenting division/project [assets/non stock
+items].
+Items received for storage in central stores for periodical stock transfer to
+divisional stores [stock items.].
+
+Receipt of Dispatch documents
+
+Incoming consignments may arrive by rail/road/air/post/courier service/direct and such receipt
+normally will be covered by RR/LR/Air consignment note/postal dispatch advice/delivery
+challan. Etc. Additionally, there will be packing notes and invoice copies and wherever
+applicable, documents like test certificates, insurance papers, guarantee certificates, etc. These
+documents are received in stores either directly or through other divisions. In some case, as per
+terms of the purchase order, such dispatch documents are received through Bank, which sends
+intimation to the centre for retirement of the documents.
+4.2.1
+
+Retirement of documents from Bank
+
+On receipt of intimation from bankers, the accounts division shall retire the documents from the
+bank, after verification of their authenticity, and hand over the consignment note in respect of
+indigenous orders to stores and the bill of lading, etc. in respect of imported consignments to
+purchase division (imports) for clearance. To suit the local working conditions alternate internal
+arrangement may also be made subject to necessary checks being provided in this regard.
+4.2.2
+
+Registration of Lorry receipt/railway receipt/Air consignment note
+
+The dispatch documents, on receipt at the CRS, should be immediately entered in the RR register
+and per format No. CS:F:001 with all relevant details giving each entry a serial number. The
+authentication of the documents will be verified with the purchase orders. To enable this, one
+copy of all the purchase orders issued will be marked to the CRS by the purchase division.
+4.3
+
+Consignment clearance procedure
+
+The person/agency in charge of clearance work shall clear consignments daily from railway/road
+transport companies, airlines, etc. against documents after carefully checking the weight of the
+consignments and outward conditions of the parcels. All consignments as far as possible should
+be cleared without any loss of time to avoid wharfage/demurrage charges. Wherever necessary,
+the services of a transport contractor/clearing agent may be engaged for carrying out the
+clearance work. When the clearance work is entrusted to any approved transport contractor, such
+documents will be handed over to him against acknowledgements.
+4.3.1
+
+Open delivery and clearance against indemnity bond
+
+In the cases of damaged consignments or when it is suspected that the contents are
+broken/damaged/lost, “Open Delivery” should be insisted upon if applicable and/or necessary
+shortage/loss certificate/endorsements taken from the carriers.
+In case of non receipt of railway receipt/lorry receipt, etc. the clearance of consignments shall be
+effected under an indemnity bond promptly.
+
+4.3.2
+
+Wharfage Demurrage and Octroi Charges
+
+Consignments arriving by rail should be given top priority in the matter of clearance to avoid
+wharfage /demurrage charges in view of the limited free period allowed by the railways.
+However, in case of consignments arriving through road carriers, maximum free period as far as
+possible should be obtained from such parties as a long term arrangement on the basis of the total
+business that might have been given to them by the respective Centres. In cases, where
+wharfage/demurrage charges become due the same shall be paid and consignment cleared. Such
+payments are to be regulated as follows:
+•
+•
+
+Due to reasons attributable to the supplier in sending the dispatch documents late the
+demurrage charges are recoverable from the party for which action is to be initiated by
+CRS and intimation sent to the accounts officer for further action /follow up;
+Due to reasons not attributable to the supplier are to be regulated by obtaining approval
+of the competent authority in the centre designated for this purpose.
+
+Octroi charges : Wherever octroi charges have been levied on the materials consigned to the
+centres action will be initiated by the stores officer to get the amount refunded as expeditiously
+as possible. However, if the octroi has been levied, due to non compliance of the terms of the
+purchase order by the suppliers. The same shall be deducted from their bill.
+4.3.3
+
+Handing over of cleared consignments
+
+The consignments cleared daily should be properly accounted for. Wherever transactions are
+heavy, and where the clearances are done by a separate cell in the central receiving section
+(CRS) the consignments cleared daily should be listed out by the clearance personnel in goods
+transport note (GTN) as per format no. CS:F:002 and should hand over to the concerned group in
+the CRS at the end of the day or latest the next working day, with one copy of GTN for further
+action, duly taking acknowledgement thereof in the prescribed column.
+4.3.4
+
+Clearance of parcels, VPPs from post office
+
+All VPPs/Post parcels addressed to the centre should only be received by central stores. The
+purchase order should clearly stipulate that all VPPs /parcels should exhibit order particulars on
+the outer cover so as to enable the stores staff to verify the authenticity of the parcels. Clearance
+of VPPs and parcels should be done without any delay after verifying the amount claimed, etc.
+properly.
+4.3.5
+
+Clearance of imported consignments at ports and custom duty parcels.
+
+For the functional convenience, the clearance of imported goods including any claim settlements
+shall be looked after by the imports section of the purchase division. At times however, custom
+duty parcels are also received via local post office, for the centre. Such parcels however should
+be cleared by the stores out of Imprest available with them on the basis of advice given by
+purchase. The wrappers in respect of customs duty parcels shall be sent to accounts officer while
+recoupment of payments is sought for. If a claim arises for customs duty refund, Accounts
+Officer shall forward the original wrapper to Purchase Officer, while keeping a certified photo
+state copy of the wrapper duly making suitable endorsement to that effect. Wherever customs
+duty amount is high and cannot be met from Imprest cash, separate advances shall be taken by
+store from the Accounts Officer.
+
+4.3.6
+
+Collection of Materials from Local Suppliers
+
+The order number and other details in respect of orders placed on local parties shall be noted
+down separately before filling so as to arrange for the daily/weekly collections of the goods. All
+such collection shall be done by the clearance /collection personnel of the CRS or the authorized
+clearing contractor. Collection of materials by indentors directly from the suppliers is to be
+minimized and should be resorted to only where it is inevitable. In all such cases, the materials
+on collection shall be routed through the Central Stores for completing the receiving formalities.
+After taking delivery of the materials from the suppliers a provisional acknowledgement can be
+given to the supplier by impressing a rubber stamp on the challan/invoice copy with the
+following remarks.
+
+Central Stores (CRS)
+“Suppliers received, subject to
+Final inspection and acceptance
+at out site”.
+Date ………………..
+
+Signature ………………………
+(CRS)
+
+The materials so collected shall also be entered in the Goods transport note (GTN) wherever
+GTNs are maintained. The collection duly supported by proper GTN shall be handed over to the
+receiving section for further processing. At times, collection of materials from out station also
+shall become necessary. In such cases, the CRS shall arrange for the same in consultation with
+the division /indentor concerned, if possible.
+4.3.7
+
+Door delivery consignments from Local/Out station suppliers
+
+Door delivery means the delivery of materials at out site, made against purchase orders or other
+valid authorization by suppliers both local or from out stations. At times, out station suppliers
+send the materials, especially voluminous/heavy items on truckloads for delivery at site, through
+their own trucks or through other carriers. Similarly, in some cases, local suppliers also bring
+materials directly to the Central Stores as per the delivery clause in the purchase order. In all
+such cases, the basic documents shall be the purchase order copy and/or any other authorized
+letter/documents such as delivery challan/invoice copy, etc. All such cases shall be attended to
+by the CRS. CRS shall ensure that the consignments are safely unloaded by employing suitable
+materials handling devices, wherever possible at the nearest site where it will be required and
+shall arrange to release the carrier’s vehicles with the least delay, to avoid any detention charges.
+They shall also take action for the payment of the carrier’s freight bills after due checking of all
+the required details and certifying the same. In respect of door delivery consignments, the CRS
+may issue a provisional receipt to the carrier or the agent, if required, by affixing a rubber stamp
+on the relevant delivery challan indicating the following details as relevant for the particular
+case:
+•
+•
+
+Received ………. Packages in sound /damaged condition;
+Weight/contents not checked /checked and fond correct
+
+•
+•
+
+These suppliers received are subject to our approvals and acceptance after check of
+quantity, quality and proper functioning.
+This receipt is issued provisionally in token of having received the consignments and
+shall not be treated as a final acceptance receipt.
+
+Signature of Stores Officer
+Central Receiving Section
+4.4
+
+Packing and Dispatch of Materials
+
+A requisition for packing /dispatch as per format No.CS:DP:001 shall be completed and
+forwarded to the stores section for outward dispatch of items.
+The packing cell in the CRS shall arrange for packing of all materials meant for outstation
+dispatches. They shall also arrange for packing other materials sent by Division /Indentors for
+official purpose on the basis of a request from the latter. Care should be taken to pack the items
+securely and usual marks such as Handle with Care inflammable etc. depending upon the nature
+of contents should be displayed on the packages either by affixing labels or by writing. A
+packing slip as per format No . CS:F:015 duly filled with the relevant details shall be placed
+inside the package just beneath the top lid. The duplicate of the packing slip shall be kept with
+the related records as office copy.
+1.
+
+Dispatch of Materials
+
+All packed consignments and other items which are to be dispatched to out stations shall be
+dispatched through carriers/railway/airways/post as the case may be with necessary “Dispatch
+Advice” as per format No. CS:F:016 wherever required. A dispatch register as per format
+CS:F:018 shall also be maintained for all outstation dispatches. Items to be received back in the
+organization shall be carefully watched by reviewing the dispatch register entries periodically.
+2.
+
+Conveyance of Heavy Materials
+
+In case of heavy machinery or bulk materials, which are to be transported to outstations from the
+centre by truck load (not as part of any purchase order terms) as far as possible the departmental
+transport shall be utilized. If, however this is not readily available and/or in urgent cases such
+jobs can be entrusted to approved carriers by Central Stores after ascertaining the tariff etc.
+wherever the expenses involved are expected to be heavy, transport arrangements should be
+finalized after inviting competitive quotations with the approval of the Head of the Purchase &
+Stores division/Senor Stores Officer.
+2.
+
+Imprest Money Accounting etc.
+
+An imprest shall be maintained by the CRS to meet expenditure on freight charges,
+wharfage/demurrage, coolly charges, VPP charges and also for affecting cash purchases of
+materials urgently required for stores wing. The expenditure supported with vouchers shall be
+submitted at least once a month to the accounts division duly signed by the concerned stores
+assistant and countersigned /certified by authorized officer of the Stores in the recoupment
+voucher form. An imprest cash book as per format NO. CS:F:025 shall be maintained for
+recoupment of imprest.
+
+1.
+
+Cash Receipt Towards Cooly Charges
+
+Proper receipts should be obtained as per format no. CS:F:026 after payment, for accountal and
+for recoupment of imprest. All such cash payments should be approved by an Officer of the
+Stores not below the rank of Stores Officer.
+
+4.6
+
+Receipt of Goods
+
+All materials collected/cleared and brought to the centre and those materials directly received in
+the Receiving Section shall be checked on the basis of Goods Transport Note/Invoice
+/challan/order copy, etc. Such collections shall be received and stored initially in the receipt
+section which should be separate from the regular holding or other Stores. However,
+equipment/machinery or bulk items which are to be directly delivered to the divisions can be
+taken to the respective sites to avoid double handling and necessary paper work completed
+thereafter without any delay at any rate within 48 hours.
+4.6.1
+
+Opening of Consignments and Preliminary Checking
+
+All consignments will be opened and checked by CRS for any visual damages and for the
+correctness of the quantity with reference to documents like purchase order, packing slip,
+delivery challan or invoice copy. Full particulars of the supplies shall be entered in the Goods
+Inward Register as per Format NO. CS:F:003 (Specimen enclosed) and the registration no.
+(inward serial No.) and other relevant details shall be enclosed on the receiving documents. A
+“Materials Identification Label” as per details given below shall be tied to the materials for
+proper identification.
+
+CENTRAL RECEIVING SECTION
+1.
+2.
+3.
+4.
+
+4.6.2
+
+Inward No. & Date …………………………
+Brief Description of Materials ……………..
+Order No. & Date ………………………….
+Indented by (Divn. Etc.) …………………..
+
+Inspection of Materials
+
+After the preliminary check in respect of quantity, the CRS will arrange to get the materials
+inspected for acceptance by the concerned user Division through the Divisional Stores, as
+required. For this purpose the CRS will initiate the Materials Arrival Intimation (MAI) to the
+concerned division. The last copy of the SRV serves the purpose of MAI. The
+indentor/inspection Group of the concerned Division shall check for the quality and other
+relevant particulars to satisfy that the materials supplied conform to order specifications and can
+be accepted and taken to stock. In respect of general stock items (common user items) for which
+
+the central stores is the indenting department such inspection may be done by a senior officer of
+the Stores who, if necessary, can seek the help of any of the user division also. In case of
+rejection, the inspection authority shall send an inspection and Test Certificate as per format no.
+CS:F:006 to the Central Stores. If materials are accepted, the inspection, authorization and
+receipt columns in the stores receipt voucher (SRV) shall be signed with date wherever
+applicable by the inspection/authorized/receiving personnel and the completed SRV shall be
+retransmitted to CRS through Divisional Stores. All rejection on inspection should be duly
+supported by adequate justification. All inspections should normally be completed within three
+days from the date of receipt of intimation by the Divisions though in the case of materials which
+require qualitative test, functional test, etc., the inspection and related formalities are to be
+completed within seven days. During the absence of the concerned indentor, the Head of the
+Division/Section shall authorize a person to carryout the inspection to avoid delay. However, it
+must be ensured that SRVs complete in all respects are forwarded to Accounts within 20 days
+from the date of receipt of materials at stores.
+In cases where purchase order stipulates for payment within specific periods, especially where
+linked with cash discount, Stores will make special efforts to finalize and send SRVs at least two
+days ahead of the required time, for arranging payment. Where purchase order stipulates part
+payment (say 90%) on proof of dispatch of materials and balance on inspection/installation
+/satisfactory running etc. SRVs need be forwarded to Accounts Officer only for final payment of
+the balance amount. In cases where 100% advance payment has already been made, the SRVs
+shall be forwarded to Accounts Officer for adjustment of the pending advance in his books of
+account.
+4.6.3
+
+Pre-Delivery Inspection
+
+Wherever pre-delivery inspection at the supplier’s premises is called for as per the purchase
+order terms, the inspecting authority shall provide a copy of such inspection reports to the CRS
+for Stores record purposes and also to accounts for suitable action. Similarly, where the orders
+stipulate approval of samples before effecting full supply, such approval reports should also be
+sent to stores and accounts.
+4.6.4
+
+Discrepancies
+
+Discrepancies, if any, on visual checking shall be promptly reported to the suppliers by the CRS
+under intimation to Purchase/Indentor/Account. Discrepancies are likely to be due to:•
+•
+•
+•
+
+Wrong materials supplied
+Shortages/excesses;
+Damaged materials, and
+Defective materials
+
+Discrepancies in case of imported goods shall be immediately reported to Purchase (imports)
+section. In the case of indigenous supplies all discrepancies shall be clearly noted in a
+discrepancy register format CS:F:008. Where “Claims Cell” functions separately, a claim as per
+format No. CS:F:019 will be prepared in the CRS for further action. Outward dispatch of goods
+under discrepancy and receipt of replacement supply shall be routed through Stores.
+4.6.5
+
+Claims
+
+Discrepancies pertaining to consignments which might have been insured by the centres shall be
+reported to the Insurance Company immediately at any rate within the allowed time limit given
+
+by the Insurance Co. and necessary claim preferred for the same. If required, preliminary claims
+are to be registered with the Insurance Company pending filling of the final claim. Claims shall
+also be preferred on carriers within the prescribed time limit with claim bill, etc. The claim bill
+should be as per format no. CS:F:020.
+4.6.6
+
+Transit Losses
+
+Loss of materials either due to non receipt or damage during transit, for the reasons not
+attributable to supplier/carreer/any employee of ISRO/DOS and which cannot be recovered from
+any source may be written off in accordance with the prescribed rules and procedures and with
+the approval of competent authority as per the delegation of powers.
+4.6.7
+•
+•
+•
+
+•
+
+Materials finally rejected shall be kept by the stores and action taken as follows:
+Intimate the supplier as per format CS:F:007
+If the supplier solicits any assistance from the stores for returning the said materials, the
+same may be extended to him.
+If there is no response from the supplier to such intimation, he may be given a final
+opportunity in the form of a notice to take delivery of the materials intimating therein that
+if the supplier does not remove the materials within the time allowed, he shall have no
+further claim on the materials and the same will be disposed of as deemed fit by the
+Centre.
+Such materials will be finally disposed of in the best manner possible after taking the
+approval of the Director, of the Centre/Unit.
+
+In case of rejected imported items, Purchase division shall take up the mater with the suppliers.
+Purchase division shall also complete customs formalities for returning the items. Stores section
+shall arrange packing & dispatch of the items as required.
+If the rejected imported materials are not to be returned, on getting intimation form purchase,
+stores shall initiate suitable disposal action.
+4.6.8
+
+Preparation of Stores Receipt Vouchers (SRVs) :
+
+CRS shall prepare Stores Receipt Vouchers with relevant details for all materials received form
+external sources as per format no. CS:F:004 (each SRV shall be given a control serial number for
+which an SRV control register as per format no. CS:F:005 shall also be maintained by CRS. The
+last copy titled as “Materials Arrival Intimation” (MAI) should be sent by CRS to the indentor
+concerned immediately on receipt of materials for arranging speedy inspection. CRS shall
+thereafter and not in any case beyond two days, send the materials for inspection purposes along
+with copies of the SRV to the Divisional Stores or to the Central Stores (Holding Section) as the
+case may be depending on whether the materials are Stock or Non stock items. One copy shall be
+retained in CRS as control copy. The distribution of the completed SRVs, which should suit the
+working arrangement of the centres, could be printed in the bottom of the SRV. For this purpose,
+different colours may be used for each copy of SRVs.
+4.6.9
+
+Acceptance of Excess Supplies
+
+Excess supplies already received up to 10% of the ordered quantity can be accepted if in standard
+pacing length of size, under intimation to Purchase Division for issuing suitable amendment.
+Any excess supplies other than the above may be accepted only after issuance of an amendment
+to the order by the purchase section.
+
+4.6.10 Delivery Beyond special Test Limit
+In case of delivery of materials by the supplier beyond the specified time limit mentioned in the
+purchase order, materials may be accepted after obtaining necessary amendment/advice from the
+purchase division and keeping in view the terms and conditions of the purchase order regarding
+delay in delivery of the materials.
+5
+
+STORAGE/CUSTODY AND PRESERVATION
+
+5.1
+
+Stock And Non Stock Items
+
+5.1.1
+
+The materials received in the Centre can be broadly divided in to two categories, viz. (i)
+Stock items, and (ii) Non stock items.
+
+Stock items are those, which are, considered as general stock materials and are indented and
+stocked in bulk by the Central Stores for the use of the various divisions in the centre. Non stock
+items include all items of non consumable and consumable nature. Which are mainly indented by
+and are ordered for the various divisions /projects themselves for their specific use. These also
+cover Asset items (including equipment, machinery, furniture, etc.) which are specifically
+ordered for divisions. The stock items are received, inspected and stocked in the Central Stores
+for periodical stock transfer to the divisional stores. Non stock items are received by the Central
+Stores and handed over to the Divisional Stores for proper custody and issue to the Divisions
+concerned. The central stores shall arrange to circulate a list of all general stock items to be
+stocked in the Central Stores to all divisional for their information once in a year, i.e. January, so
+that such items need not be indented by them in the normal course. When stock of such item is
+not available in Central Stores and at the same time, the Division need them urgently the
+purchase indents raised by the Divisions need them urgently the purchase indents raised by the
+divisions shall be certified for non availability by the Central Stores. Also, the central stores will
+indicate if any alternate materials are available with them in respect of such items for their
+consideration.
+Procurement of common stock items can be done through standardization by constituting a
+committee. Wherever replacement requirements of office equipment like PCs, printers,
+photocopying machines, fax machines, etc. are to be processed a committee can be constituted
+for effecting the purchase on a buy back scheme.
+5.1.2
+
+Budget for Stock Items
+
+Purchase of all stock items will be made by the Central Stores in order to avail for the benefit of
+price concession for bulk purchases to avoid varying purchase prices for different order and also
+to cut down delays in processing numerous indent. However, budget provision for purchase of
+stock items will be made by the respective divisions on the basis of their annual requirements.
+The annual requirements should also be intimated to the Central Stores for consolidating the
+indents and for taking action for bulk purchases.
+5.2
+
+Value Accounts
+
+The Civil Engineering Division of the Department of Space and Engineering Maintenance
+Division of the Centres should maintain value account of stores required for works as per the
+provision of Chapter 7 of the Central Public Works Account code.
+
+5.2.1 Custodian of Stock
+The Stores Assistants are the custodians of the stock held in their charges and shall be
+responsible for the same.
+5.3
+
+Preservation
+
+Adequate precautions may be taken to avoid deterioration of materials during storage using
+preservatives. Proper storing methods shall adopt and specific instructions in this regard may be
+issued from time to time.
+5.4
+
+Protection from Fire Hazards
+
+Suitable provision shall be made for protection of materials from fire hazards. Smoking inside
+the storage area shall be strictly prohibited. No smoking boards shall be displayed at prominent
+places. Highly inflammable articles shall be kept separately and properly secured.
+5.5
+
+Location
+
+All materials shall be stocked in a systematic way so that minimum time is spent in picking out
+the materials for day to day issues. Thus, each rack and bin in the stores will be identified with a
+location number, which shall be indicated on the respective stock cards/bin cards.
+6.
+
+Issue of materials
+
+6.1
+
+The materials which are issued from Central Stores are of two types, viz. (a) Stock items.
+And (b) Non stock items as has already been explained. Stock items are issued (stock
+transferred) from Central Stores to Divisional Stores on stock transfer voucher whereas
+the non stock items which are handed over to Divisional stores simultaneously on receipt
+at the Central Stores, shall be issued against “Stores Receipt Voucher cum Issue
+Voucher“ (Format No. CS:F:004).
+
+6.2
+
+Stock of Transfer Voucher
+
+The issue of general stock items from Central Stores to Divisional Stores shall be done in bulk,
+generally on the monthly basis through a Stock Transfer Voucher (STV) as per Format No.
+CS:F:013. The indenting Divisional Stores shall prepare the stock transfer voucher and present it
+to the central stores for the transfer of stock. All STVs thus processed will be given a control
+number by the central stores. Transfer of stock from one divisional store to another divisional
+store/central store and one centre to another centre will also be done on the STV forma No.
+CS:F:013.
+
+6.3
+
+Stores Issue Voucher (SIV)
+
+All materials (other than stock transfer which are usually done in bulk periodically and not daily)
+shall be issued against proper ‘Stores Issues Vouchers’ (SIVs) as per Format No. CS:F:012. The
+principle of FIRST-IN-FIRST-OUT shall be followed as far as practicable. Stores Issue
+Vouchers are to be prepared by the Indentor concerned duly signed by the authorized person.
+Each division/project shall provide to Central Stores/Divisional Stores a list of such authorized
+
+personnel with their specimen signatures. Any addition/deletion to this shall be communicated to
+Central Stores/Divisional Stores promptly.
+6.4
+
+Issue of Non Stock Items
+
+Issue of non stock items from the Central Stores to Divisional Stores shall be effected through a
+“Stores Receipt –cum-Issue Voucher’ (SRV) duly filled and signed by authorized personnel.
+Since issue of such items is a simultaneous process of receipt, no separate Stock Transfer
+Voucher or Stores Issue Voucher is necessary for these cases.
+6.5
+
+Stores Issue Timings
+
+In order to enable the Stores staff to complete the day to day postings on the same day and in any
+case on the next morning, the issue of materials from Central stores shall be restricted between
+10.00 hrs. and 16.00 hrs. However, urgent and unavoidable requirement outside the above hours
+could be met on special request.
+6.6
+
+Asset Items
+
+Asset items are those which have a definite life, intrinsic value and separate entity. Some items
+which fall under this category are:
+Equipment, plant and machinery, machine tools, vehicles, office equipment, furniture and
+fixtures (such as fans, air-conditions etc.)
+Generally all items of the above nature costing above Rs. 10,000 per piece shall be considered as
+Assets. However, furniture, fixtures and office equipment shall be considered as assets
+irrespective of value.
+1.
+
+Non consumable items are those, which neither fall in the category of Asset nor
+consumables.
+
+2.
+
+Numbering and de-numbering Asset Items and transferring of owner ship title in
+case of old vehicles disposed off
+
+Immediately after acceptance, all Asset items shall be allotted a number which should be painted
+on it preferably on the sidewall or at the back of the equipment without effecting the aesthetics
+by the Central Stores/Unit Stores/Divisional Stores. These numbers shall be maintained by the
+respective divisions for easy identification on later dates. In respect of the items, which are
+directly delivered to the divisions, the equipment numbers shall be painted by the divisions
+concerned on receipt of the communication from Stores which will be subsequently verified by
+stores for updating their books. While disposing off the surplus /unserviceable equipments to
+outside parties the numbers painted on them should be erased before they are handed over. In
+case of disposal of vehicles, it should be ensured that the ownership title is transferred to the new
+buyer in the Certificate of Registration by the Road Transport Authority before the vehicle is
+handed over.
+
+6.8
+
+Return of Materials to Stores
+
+Any materials returned to Stores shall be returned under a stores return note (SRN) as per format
+No. CS:014. Materials returned to stores shall be of some monetary value or they should be in
+support of an item proposed for write off.
+2.
+
+ACCOUNTING OF MATERIALS
+
+1.
+
+All materials which are accepted on inspection shall be taken on charge on appropriate
+stock cards on the basis of Stores Receipt Vouches prepared by the Central Receiving
+Section. The materials shall be accounted in the common accepted form of accounting
+units (metric system), such as KGs, Liters, meters, pairs, numbers, etc. Only the usual
+quantitative accounting need be done for all transactions. However in the case of receipt
+entries, unit rate shown in the order also shall be entered in the appropriate column of the
+stock card.
+
+2.
+
+Records
+
+For the proper accounting of materials, records as detailed below may be maintained.
+1.
+
+Assets Registers
+
+In respect of all Asset items, received and distributed to divisions the central stores shall
+maintain an “Assets Register” No. CS:F:011. as regards distribution, the equipment
+number/identification number should be invariably indicated in the remarks column wherever
+return and issues take place.
+The Division/Group Head shall furnish once in a year a list of Asset/Furniture in their custody to
+the central stores for updating the records and reconciliation for easy physical verification.
+Movement/Change of custodian shall be communicated to stores together with proper documents
+such as handling /taking over reports, transfer request etc., for updating Master Asset register
+being maintained by Central Stores once in a year.
+2.
+
+Stock Cards
+
+For accounting purposes of the various transactions in respect of the general stock items the
+Central Stores shall maintain stock cards as per format no. CS:F:009.1 and 009.2. Where this
+function is computerized, the stock cards need not be maintained manually. The stock card
+compresses of two parts. Part I contains relevant information such as details of the materials,
+source of supply, order and SRV reference, monthly consumption pattern, etc. for managerial
+information whereas part II reflects quantitative accountal of all transactions.
+The Stores in the Centre/Divisions/Units should ensure that the rate column in proforma no.
+CS:F:009.1 is duly filled in respect of all supplies received/purchase made. This will facilitate
+working out the cost of works done on behalf of other departments/agencies and value of stores
+of the purpose of assessing losses and write off, etc. in production units however, full value
+account/period inventory should be kept of all items of stores.
+3.
+
+Bin Cards
+
+In addition to the stock cards, wherever possible, bin cards, which are kept with the materials in
+the respective racks/bins shall also be maintained as per format No. CS:F:010. The day to day
+postings in respect of stores receipt/issue transfer should be posted in the bin card immediately
+after a transaction is effected.
+4.
+
+Furniture Ledger
+
+Standard furniture items such as tables, chairs, etc. are usually received in bulk quantities and
+issued/distributed to divisions according to requirement. A furniture ledger as per the assets
+register format No. CS:F:011 shall be maintained in the central stores.
+5.
+
+Stock Register at Division/Section
+
+The furniture issued to officers/staff members for their specific use as well as those issued to
+Divisions/Sections for common use are to be accounted for properly and responsibility for the
+custody identified.
+For furniture issued to officers/offices in the divisions, a Personal Inventory Register (PIR) as
+per format CS:F:027 shall be maintained by Divisions/Sections as per specimen attached.
+Separate folios shall be allotted in PIR to each eligible staff member and all furniture issued to
+him shall be entered in the relevant folios, similarly, for accounting of furniture items issued to
+division’s common use, a Divisional/Sectional Inventory Register as per Format CS:F:011 shall
+be maintained by the Division/Section, which also serves as Divisional Inventory Register.
+Periodical dedication conducted in the division shall cover all items accounted in PIR also.
+2.
+
+DISPOSAL OF OBSOLETE/SURPLUS/UNSERVICEABLE/SCRAP ITEMS
+
+8.1
+
+Surplus, Obsolete and Redundant Materials
+
+Each division shall have to review the materials of different nature held in their division once in
+a year i.e. in April. Items, which may not be required any longer by the division, should be
+declared as surplus with the approval of the competent authority. A Proforma may be used for
+this purpose as per format no. CS:F:005 which may be forwarded to the Central Stores through
+the Divisional Stores for further action. Such materials will be returned to the Central Stores
+under a stores return note with the approval of competent authority.
+1.
+
+Utilization of the surplus stores
+
+The central stores shall once in a year compile the list of surplus items for the centre and explore
+the possibility of effective utilization of the same by various divisions in the centre. For this
+purpose items where issues have not taken place for over a year shall be considered as surplus
+unless there are reasons to treat them otherwise. Further, if the items in stock are far in excess of
+the average issues/anticipated requirement of the Division/Central Stores for a year, the balance
+of the stock in excess of the average requirements shall be treated as surplus even though there
+are issues during the year. In case there is no requirement by any Division in the Centre, such list
+of surplus items may be circulated if expedient to other ISRO Centres to meet their requirements,
+if any. In case other Centres of ISRO also do not require the same, such surplus materials shall
+be disposed of by public auction/tender after obtaining necessary approval from the director of
+the centre or such authority to whom director may specifically delegate.
+
+2.
+
+Unserviceable Items
+
+All unserviceable asset items available in the various divisions shall be listed out and proposals
+for declaring them as unserviceable may be made by the Head of the Division in the Proforma as
+per format no. CS:F:023. Such items shall be inspected by a ‘Survey Committee” to be
+constituted by Director of the Centre. Thereafter such proposals shall be submitted through
+Head, purchase & Stores and IFA to the competent authority who is empowered to declare them
+as unserviceable and also to approve the disposal of the same.; after obtaining necessary
+approval from the competent authority, the sanction paper in original shall be forwarded by the
+divisions to the Head Purchase & Stores/Central Stores (CS:F:024) for communicating the
+sanction to all concerned. The unserviceable materials shall be returned to the central stores with
+the list and stores return note as per format No. CS:F:014 through the divisional stores. In respect
+of non asset items sanction of the competent authority for the disposal for the same will be
+obtained and there will be no inspection by the “Survey Committee”. These items will be
+returned to central stores as in the case of asset items.
+
+8.3
+
+Loss of Materials and Write Off
+
+Loss of materials may be due to a variety of reasons viz. shortage, damage, spillage, shrinkage,
+evaporation, theft/pilferage, etc. all such cases whenever detected shall be listed out in the
+Proforma vide format No. CS:F:022 by the concerned division/group. Approval for write off
+may be obtained from the competent authority after proper examination and in accordance with
+the delegation of powers. In such cases also the documents containing the approval in original
+with the supporting documents shall be forwarded to the Head, Purchase & Stores/Central Stores
+for communicating the sanction to all concerned.
+1.
+
+All proposals either for the purpose of declaring the item as unserviceable/surplus
+/obsolete or for write off should be submitted to the competent authority through the IFA
+of the centre /project as the case may be,.
+
+2.
+
+Disposal of Scrap/Unserviceable Items
+
+Suitable enclosed type scrap dumping yards shall be provided to the Divisional Stores/Central
+Stores in their vicinity for the collection of scrap materials (metal cuttings, turnings, chipping,
+bits, etc) generated from various workshops and other Divisions. It is desirable to construct a pair
+of such bays for each type of scrap so that when one bay is full, fresh dumping can be made in
+the other bay. The capacity of the bays can be pre-calibrated so that as soon as the bin is full with
+scrap, The approximate quantity available for action will be readily known to the stores staff
+scrap of aluminum, stainless steel, mild steel, etc. should be dumped in separate bins/lots.
+However, the scrap of valuable materials such as copper, brass, molybdenum, bronze etc. which
+are usually generated in smaller quantity in the workshops should be kept under safe custody of
+the workshop supervisor in colours code drums of 200 KGs. Capacity (lockable type), each drum
+being marked with the type of scrap to be stocked. Here again, it will be advisable to keep a pair
+of drums for each type of scrap so that when one drum is full, it can be handed over the
+respective stores while the other drum can be used for further collection. Such scrap shall be
+handed over to the stores be weight under a return note. The scrap accumulation. i.e. metal scraps
+empties, etc. shall be disposed of by weight/lot/numbers as expedient half yearly or even earlier
+depending upon the quantum of scrap accumulation. The Divisional Stores shall arrange to
+intimate the availability of scrap to the Central Stores with relevant details sufficiently in
+
+advance for arranging necessary disposal by public auction/tender. The centres in consolation
+with IFA may evolve detailed procedure for disposal of scrap/unserviceable materials. In this
+connection, the provisions of GFRs 123 to 125 and the Government of India instructions there
+under shall also be followed.
+3.
+
+Accounting of Surplus and obsolete stores
+
+Items declared as unserviceable/surplus/obsolete by the competent authority could be removed
+from stock register but they should be accounted for in a separate “Disposal Register” as these
+items have sale value and a close watch should be kept for the final disposal in accordance with
+the rules. In order to ensure that these stores fetch good returns, the stores should be protected
+properly till their removal by the purchaser and the time lag between the declaration of the store
+as obsolete/surplus/unserviceable and their actual disposal should be minimized.
+The details of the disposal of these items by transfer or recoveries made by disposing of these
+items should be recorded in the disposal register and the amount recovered should be credited to
+the “Receipt of the Department.”
+4.
+
+Empties
+
+All empties, which can be disposed of as empties such as drums, gunny bags, polythene/glass
+carboys, etc. shall also be accounted in a suitable register. Other empties which are of scrap
+value may be treated as ‘Scrap’.
+2.
+
+PHYSICAL VERIFICATION OF STORES
+
+1.
+
+The physical verification of the stores shall be effected by (i) routine verification of the
+stores to be carried out by the custodian of the stores and (ii) periodical physical
+verification by a team.
+
+1.
+
+Routine Verification
+
+The Stores Keeper /Store Asst. in charge of stores should check is stock daily covering at least
+20 to 25 items or more if possible so that he covers all items in the stock at least once in a year.
+The idea is to have a sort of continuous stock taking throughout the year. The result of such
+verification should be recorded and initiated in the stock card/stock ledgers. Incase of
+discrepancies, he shall check with SRVs/SIVs/ other records and reconcile the same under
+intimation to the higher authorities. Whenever the Stores Asst. /Stores Officer during the course
+of stock verification of particular items come across difference in the balance of stock card/bin
+card, the same should be reconciled with proper recording. Besides the routine checks by the
+custodian of the Stores Officers of the stores shall also conduct surprise checks and record their
+findings.
+2.
+
+Periodical Verification
+
+The physical verification of all stores shall be conducted periodically but at least once in every
+year. Such periodical physical verifications will be conducted preferably between January and
+March each year by a team under the overall supervision of an officer nominated by the
+Controller of the Centre. The team shall comprise of a representative each from Accounts
+Division and Central Stores (persons not connected with the custody or accentual of the stores
+being verified) and two or three engineers/technical staff who are conversant with various
+
+equipment and materials. Physical verification by the team shall always be made in the presence
+of the subordinate authority responsible for the custody of the stores or of a responsible person
+deputed by him. In this connection, the team shall also follow the provision in GFRs 116 to 118.
+9.2
+
+Stock Verification Sheets
+
+For the stock verification, stock verification sheets as per format no. CS:F:021 shall be used.
+1.
+
+Materials to be verified
+
+The physical verification team shall cover the following items.
+1. All stock items held in stock including consumable/non consumable/asset items (if any)
+2. All asset items distributed to the divisions
+2.
+
+Discrepancies
+
+If the physical verification reveals discrepancies, the stockholder has to reconcile these. The
+Stores Officer I/C of the Stores shall investigate in details and submit his report to the head of the
+purchase and stores division making recommendation for adjustments or any other action
+required under the circumstances. Final adjustments in the stock card/stock ledger shall be made
+only after obtaining the orders of the competent authority.
+3.
+
+OTHER RELATED WORKS
+
+1.
+
+Managerial Information System
+
+The central stores shall compile necessary managerial information and forward it to the Head of
+the Purchase and Stores Division periodically.
+2.
+
+Training to Personnel
+
+Proper training can be imparted to the staff not only in the work of stores but also in getting
+sufficient training in respect of the fire fighting and first aid etc.
+3.
+
+Classification, Codification and Computerization of Stores
+
+1.
+
+Classification
+
+In view of the availability of Computer facility in the Centers and in order to retrieve information
+quickly, it is desirable that computerization of stores is undertaken. For this purpose, proper
+classification and codification of materials should be evolved in each centre.
+2.
+
+Codification : For material coding, each centre shall evolve its own materials codes.
+
+3.
+
+Out-put information
+
+The following is the common out put information recommended.
+
+(i)
+
+Consumable Stores :
+Stock Items
+
+Non Stock Items
+
+(a)
+
+Monthly Stock balance in
+Central/Divisional Stores
+(Stores No. Item Code,
+Item Description, Quantity )
+
+(a)
+
+Frequency of Stores
+issue with Quantity (halfyearly)
+
+(b)
+
+Monthly Unit/Divn/Section
+wise consumption statement
+showing the value with progressive
+total of quantity and value
+(Divn. SIV ref. Item code, material,
+quantity, value)
+
+(b)
+
+Annual list of non-moving
+items.
+
+(c)
+
+Frequency of stores issues on a
+monthly basis
+
+(c)
+
+Unit/Divn/Section wise
+monthly statement of nonstock items with progressive
+total of quantity and value
+for budgetary purposes
+
+(d)
+
+Weekly list of items reaching recorder levels
+
+(d)
+
+Yearly stock levels in sub
+stores with quantity
+
+(e)
+
+Quarterly review of stock levels to be
+maintained by each stores based on the
+periodical change in consumption pattern
+
+(f)
+
+Review of ABC category items at the end
+of the year, for next year’s classification
+
+(ii)
+
+Asset Items such as equipment, furniture etc.
+1.
+2.
+3.
+
+Asset items available in Unit/Divn/Section with quantity value, etc.
+(Unit/Division, item code, Item description, quantity, value, total value)
+Category wise list (annual) of each Asset items (such as lathe, Oscilloscope, etc.)
+in the Centre with distribution
+Quarterly review statement of asset items, Divn. / Section wise.
+
+PART II
+PROCEDURE TO BE FOLLOWED BY THE DIVISIONAL STORES
+2.
+
+FUNCTIONS AND RESPONSIBILITIES
+
+1.
+
+The Divisional Stores shall attend to all the day to day Stores activities of the Divisions,
+such as receiving/issuing of materials, storage and custody, maintaining appropriate
+records, expediting inspection of items, arranging quick release of Stores Receipt
+Vouchers, helping the verification teams in conducting verification expeditiously, coordination with the Central Stores, furnishing replies to Audit queries internal movement
+of materials and other related work.
+
+2.
+
+Receipt of Materials
+
+Generally materials are received in the Divisional Stores through two channels.
+1. Materials received from Central Stores
+2. Materials received direct
+1.
+
+Materials received from Central Stores
+
+Materials received from Central Stores include
+1. All incoming items received as per purchase orders both indigenous and imported
+against specific indents of the divisions (non stock items). However non-stock items can
+be kept in stock as reserved stock for a maximum period of two years beyond which
+such stores shall be reviewed for declaration of surplus stock. Such reservation shall be
+specifically note down in the remarks column of the stock card.
+2. General stock items drawn periodically from the Central Stores on stock transfer basis.
+2.
+
+Materials Received Direct
+
+Similarly materials received directly in the Divisional Stores include
+1. Materials received or transferred from other Divisions of the Centre or even from outside
+organization on loan/issue/transfer basis.
+2. Locally purchased items by local purchase cell of the purchase wing.
+3. Samples called for by indentors form outside parties and received directly by the
+Divisions (such receipt will be accounted for in a separate register, which will be
+maintained by the respective Divisional Stores).
+4. Free supplies received from outside organization in the division.
+
+3.
+
+Receipt of Materials Arrival Intimation (MAI)
+
+On receipt of materials arrival intimation from the Central Stores, for inspection of supplies
+received for the divisions, the Divisional Stores shall arrange with the indentor/concerned to
+carry out inspection of the items within three days from the date of receipt of such intimations,
+for all common items. In case of special items where functional testing, qualitative analysis, etc.
+are to be carried out, the inspection shall be completed within seven days. All related stores
+
+receipt vouchers received in the Divisional Stores shall be returned to the Central Stores duly
+signed in the inspection columns by the concerned officials, with necessary inspection and test
+certificate as per format No. CS:F:006.
+4.
+
+Registration of Goods
+
+All materials received daily in the Divisional Stores from various sources shall be first entered in
+a Goods Inward Register as per Format No.DS:F:004 on the basis of stores receipt
+vouchers/other documents and each entry is given a serial number. This register shall
+periodically be watched so that all the materials received in the Divisional Stores are properly
+accounted for as per procedure. This register shall also serve as a review register for the quick
+release of stores receipt vouchers / expediting inspection of materials.
+5.
+
+Inspection and final acceptance
+
+The materials received in the Divisional Stores shall be counter checked for quantities by the
+Divisional Stores and for functional tests by the indentor concerned. In the absence of an
+indentor, the Divisional Head shall arrange to inspect the item to avoid delay. For items, which
+are found all right in every respect as per the specifications given in the purchase order, the
+indentor shall furnish an inspection and test certificate as per Format No. CS:F:006 as well as
+sign the stores receipt vouchers at the appropriate columns. It is the responsibility of the
+Divisional Stores to see that the SRVs are sent back to the central stores most expeditiously.
+6.
+
+Reporting of discrepancies
+
+The instructions contained in paragraphs 4.6.2 to 4.6.4 of part I of this procedure shall be
+followed while reporting the discrepancies.
+7.
+
+Receipt from divisions/sections
+
+Materials received on loan or permanent transfer from other Divisions/Section will be checked
+and accepted on the basis of Stock Transfer Vouchers as per Format No.CS:F:013. Copies of the
+Stock Transfer Vouchers shall be distributed as shown in the Voucher Form. In case materials
+are received on loan basis, the same shall be noted in a loan register for watching the return of
+loan on receipt of fresh stock. In the case of transfer of asset items on permanent basis an extra
+copy of the “Stock Transfer Vouchers’ shall be endorsed to Central Stores for updating the
+“Assets Registers”.
+3.
+
+ACCOUNTAL OF MATERIALS
+
+1.
+
+Stock Card and Stock Ledgers
+
+For the accountal of the materials received in the Divisional Stores either stock card as per
+format no. CS:F:009.1 and 009.2 or stock ledgers (consumables/non consumables/assets) shall be
+used in the Divisional Stores. The divisional stock letters (consumable/non consumable/assets)
+shall be as per format no. DS:F:001, DS:F:002 and DS:F:003 respectively.
+2.
+3.
+
+Asset items are those, which have a definite life, intrinsic value and separate entity. The
+details are outlined in paragraphs 6.6 & 6.7 of Part I of this procedure.
+All Asset items issued to the divisions should be entered in a Register to be maintained
+by the Divisional Head as per proforma vide format no. DS:F:003.
+
+4.
+
+ISSUE OF MATERIALS
+
+13.1 All issues of materials in the divisional stores shall only be made against prescribed
+stores issue vouchers (SIV) as per format no. CS:F:012 duly countersigned by the authorized
+person in the division. Each Division shall list out the name and specimen signatures authorized
+persons and any revision in the list shall be duly intimated to the Divisional Stores. The
+Divisional Stores shall be arranging to keep sufficient quantity of SIV pads and distribute the
+same to each technical group or section in the division as per requirement. Each group or section
+in a Division shall use only one SIV pad at a time. SIVs shall be prepared in such a way that all
+the copies of the set are legible and all over writing shall be avoided. Correction if any is to be
+authenticated (signed) by the authorized officer of the user division who raised the SIV.
+1.
+
+Issue of Materials for Fabrication
+
+At times, certain fabrication jobs are entrusted to outside parties for which regular work orders
+are issued by the Purchase Division. Wherever it is a condition of the purchase order that raw
+materials are to be issued to the party by the department, the procedure to be followed by the
+division/divisional stores is as follows;
+The materials required for fabrication shall be drawn by the Division strictly in accordance with
+the quantities given in the “Bill of materials” approved by the fabrication cell as enclosed with
+the work order. The indentor shall arrange to deliver the material to the fabricator against proper
+receipt through the divisional stores wherever such divisional stores exist other wise through
+Central Stores. For outstation fabrications such materials can be dispatched through central
+stores. The fabricated part/product shall be collected by the indentor after due inspection and
+such materials shall be taken on charge by the Divisional Stores on appropriate stock cards and
+issues made against proper SIVs as usual. In cases where issue of materials in standard length,
+etc. results in issue of excess material over and above the quantities mentioned in the “Bill of
+materials”, such excess materials shall be obtained back from the fabricator and the same shall be
+returned to the stores by the indentor under stores return note.
+1.
+
+Accounting of Stores
+
+Equipment fabricated or assembled within the Centre/Unit with the components /parts drawn
+from stock shall be taken in to account in stores. A no charge SRV in the present format shall be
+prepared for the purpose.
+2.
+
+Posting of transactions
+
+Posting of all transaction such as stores receipt, issue, transfer, return, etc. should be done in the
+stock card or in the stock ledger as well as in the bin cards during the day itself as far as possible
+and the stock balance should be struck. All entries are to be initiated by the Store Keeper/Stores
+Assistant I/c.
+3.
+
+Filling of SRVs / SIVs
+
+The Stores Receipt Vouchers / Issue Vouchers/ Transfer vouchers / Stores Return Notes, etc.
+should be filled separately and chronologically for every month.
+4.
+
+Stores Issue Timing
+
+Issue timing of materials from the Divisional Stores shall be fixed in consultation with the
+division for enabling the Stores staff to complete their postings/other clerical work daily. For
+common Divisional Stores, the issue timing shall be from 10 am to 4 pm. However, in emergent
+cases, issues could be made outside the above hours.
+2.
+
+STORAGE, PRESERVATION AND SAFE CUSTODY OF STOCK
+
+1.
+
+Stores shall be arranged according to the common classification and kept in racks, etc. as
+applicable. Each item should be arranged neatly and appropriately with suitable location
+marks. For the proper preservation of materials adequate precaution should be taken to
+avoid deterioration, spoilage, etc. during storage.
+
+2.
+
+It will be the responsibility of the Division concerned to provide adequate furniture and
+fixtures to the Divisional Stores from their own budget which will be the property of the
+Divisional. The division shall allocate suitable storage space for accommodating the
+Divisional Stores.
+
+2.
+
+PHYSICAL STOCK VERIFICATION
+
+15.1 Physical verification of the materials (regular, periodical as well as surprise checks) shall
+be made and the findings recorded in the physical verification sheets as per format no. CS:F:021,
+The physical verification of stores shall be of two types.
+1. Routine verification by the custodian and surprise check by officers of Stores wing, and
+2. Periodical physical stock verification by the verification team. The instructions contained
+in paragraphs 9.1 to 9.4 in part I of these procedures shall be adhered to.
+3.
+
+SURPLUS AND REDUNDANT STOCK
+
+16.1 The Divisional Stores should periodically review their stock materials and bring out
+surplus and non moving stock and also items which are no longer required by the divisions and
+lying in the Stores. Such lists should be prepared once in a year in the month of April in the
+Proforma as per format no. DS:F:005 and sent to Central stores who will explore the possibility
+of utilizing same in the Divisions /Projects of the Centre. In this connection, provisions of GFRs
+119 and 124 may also be kept in view.
+
+4.
+
+LOSS OF MATERIALS AND WRITE OFF
+
+1.
+
+Loss due to the Negligence of Employees
+
+Losses caused due to the negligence of employees are liable to be recovered from them. The
+head of the division shall send to the competent authority specific recommendations for recovery
+/ write off etc. in such cases after proper investigation.
+2.
+
+In all cases of loss not covered under para 17.1 action is to be taken as detailed in para
+8.3 of part I of this procedure. Reference is also invited to the provisions of GFRs 121,
+122, 123 and 124 in this connection.
+
+5.
+
+ON THE CLOSURE/CREATION OF DIVISIONS
+
+18.1 When it is decided to close down a Division/Project, the concerned Division should list
+out all asset items and send such lists to planning/system group (like PPEG who co-ordinates on
+budgetary mattes) with copy to Central Stores for possible effective utilization of equipment by
+other divisions in the Centre. In the case of consumable item, which can be used, the same
+should be returned to the stores under a stores return note as usual. In case a new Division is
+created necessary intimation shall be given to Central Stores for further action towards issue and
+accountal of stores to that Division.
+
+PART III
+6.
+
+GENERAL
+
+1.
+
+Transfer of charge of stores
+
+Whenever there is a change in the incumbency of the custodian of Stores, there shall be a
+handing over/taking over of the charge of stock, stores records, keys, etc. recorded in a proper
+manner.
+2.
+
+Security
+
+Adequate provision for security of the entire stores is extremely essential. Measures taken should
+include :
+1. Easy segregation of the storage section from other offices;
+2. Only one outlet from the storage area (as far as possible);
+3. A continuous watch over the various entrances and exists and ensuring entry only of duly
+authorized personnel
+4. Proper closing and opening of the storage section, by duly authorized staff;
+5. Dispatch of material with a covering documents form duly authorize staff
+3.
+
+Fire Protection
+
+Safe guarded with appropriate type, size and numbers of approved fire extinguishes fitted in
+easily approachable locations.
+4.
+
+Updating General Stock Items
+
+Based on the consumption pattern, frequency of issues and general demand for the various
+materials, many items from the non stock category shall be brought to general stock items.
+Division/divisional Stores shall inform central stores about the inclusion of such items in the
+general stock list.
+5.
+
+The officers of the Central Stores shall have access to the Divisional Stores to conduct
+surprise checks to find out whether the procedure are followed correctly and records are
+maintained in the proper manner. Head Purchase and Stores should ensure that such
+checks are conducted at least once in three months.
+
+7.
+
+DELEGATION OF POWERS
+
+1.
+
+Financial power to Stores Officers relating to activities viz. freight, demurrage, repairs
+etc. shall be sub delegated by the respective Centre/Unit Directors as deemed fit and
+necessary.
+The sale order approval powers of various authorities for items sold out/disposed off by
+auction/tenders etc. will be exercised as follows:
+
+2.
+
+Asst. Stores Officer:
+
+up to Rs. 25,000/-
+
+Stores Officer
+
+up to Rs. 50,000
+
+Senior Stores Officer
+
+up to Rs. 2,00,000
+
+Head Purchase & Stores
+
+up to Rs. 5,00,000
+
+Controller
+
+Above Rs. 5,00,000
+
+In case any functionaries do not exist in any units the powers relating to that functionary will be
+exercised by next higher authority.
+All sale orders valuing above Rs. 1,00,000 are to be pre audited before release.
+
+8.
+
+DEVIATIONS
+
+Where deviations from the prescribed stores procedure are considered necessary, prior approval
+of the Director of the Centre should be obtained by furnishing sufficient justification for such
+deviations and the reasons thereof should be recorded. All such proposals should be routed to the
+Director of the Center /Unit through the IFA.
+
+LIST OF FORMTS TO BE USED IN CENTRAL STORES
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+
+Railway Receipt Register
+Goods Transport Note (GTN)
+Goods Inward Register
+Stores Receipt Voucher / Stores Issue Voucher
+S. R. V. Control Register
+Inspection & Functional Test Report
+Rejection/Discrepancy Report
+Rejection/Discrepancy Register
+(a) Stock Card (Part I)
+(b) Stock Card (Part II)
+10) Bin Card
+11) Asset Register
+12) Stores Issue Voucher
+13) Stock Transfer Voucher
+14) Stores Return Note
+15) Packing Slip
+16) Despatch Advice
+17) Dispatch Register
+18) Claim Form
+19) Claim Bill
+20) Stock Verification Sheet
+21) Proforma for examining proposals for write-off
+of Stores
+22) Proforma for examining proposals for declaring
+equipment or materials as unserviceable, obsolete
+or surplus
+23) Proforma for communication of approval of the
+competent authority declaring the stores as
+Surplus/obsolete/unserviceable/contaminated
+and ordering their disposal
+24) Imprest Cash Amount
+25) Receipt
+
+-
+
+CS:F:001
+CS:F:002
+CS:F:003
+CS:F:004
+CS:F:005
+CS:F:006
+CS:F:007
+CS:F:008
+CS:F:009.1
+CS:F:009.2
+CS:F:0010
+CS:F:0011
+CS:F:0012
+CS:F:0013
+CS:F:0014
+CS:F:0015
+CS:F:0016
+CS:F:0018
+CS:F:0019
+CS:F:0020
+CS:F:0021
+
+-
+
+CS:F:0022
+
+-
+
+CS:F:0023
+CS:F:0024
+
+-
+
+CS:F:0025
+CS:F:0026
+
+LIST OF FORMATS TO BE USED IN DIVISIONAL STORES
+1)
+2)
+3)
+4)
+5)
+
+Divisional Stock Ledger (Consumable)
+Divisional Stock Ledger ( Non-consumable)
+Divisional Asset Register
+Goods Inward Register
+Proforma to be completed in respect of items
+to be declared surplus
+
+-
+
+DS:F:001
+DS:F:002
+DS:F:003
+DS:F:004
+DS:F:005
+
+
